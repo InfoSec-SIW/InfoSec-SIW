@@ -1,16 +1,10 @@
 <div align="center">
-  <h1>Hi, I'm In-Woo Song 👋</h1>
-  <p>🛡️ Information Security Student | Soongsil University | SSCC Member</p>
+  <h1>Hi, I'm InWoo Song 👋</h1>
+  <p>🛡️ Information Security Student | Soongsil University</p>
 </div>
 
 <hr>
 
-## 🙋‍♂️ About Me
-- 🎓 **Education:** [Soongsil University](https://ssu.ac.kr), Dept. of Information Security
-- 🤝 **Club:** Active Member of [SSCC (SoongSil Computing Club)](https://github.com/SoongSilComputingClub)
-- 🚀 **Goal:** Aspiring Information Security Specialist dedicated to a safer digital world.
-
-<hr>
 
 ## 💼 Career
 *   🎓 **2022.03 ~ Present**
@@ -18,12 +12,12 @@
 
 *   🏛️ **2022.03 ~ Present**
     [SSCC (Soongsil Computing Club)](https://github.com/SoongSilComputingClub)
-    > 2022.03 ~ Present: Member
+   
 
 <hr>
 
 ## 🏆 Awards & Activities
-> *To be updated with achievements from Soongsil Univ. and SSCC.* 🚀
+> *To be updated throughout my future journey and growth.* 🚀
 
 | Date | Activity / Award | Description | Organization |
 | :--- | :--- | :--- | :--- |
@@ -32,7 +26,7 @@
 <hr>
 
 ## 💻 Projects
-> *Documenting my journey in information security and software development.* 🛠️
+> *To be updated throughout my future journey and growth.* 🛠️
 
 | Period | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
