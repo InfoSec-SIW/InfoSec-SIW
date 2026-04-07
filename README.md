@@ -6,17 +6,19 @@
 <hr>
 
 ## 🙋‍♂️ About Me
-- 🎓 **Education:** Soongsil University, Dept. of Information Security
-- 🤝 **Club:** Active Member of **SSCC** (SoongSil Computing Club)
+- 🎓 **Education:** [Soongsil University](https://ssu.ac.kr), Dept. of Information Security
+- 🤝 **Club:** Active Member of [SSCC (SoongSil Computing Club)](https://github.com/SoongSilComputingClub)
 - 🚀 **Goal:** Aspiring Information Security Specialist dedicated to a safer digital world.
 
 <hr>
 
-## 🏫 Experience & Affiliation
-- 🎓 **2022.03 ~ Present**
-  - **Soongsil University** | B.S. in Information Security
-- 🛡️ **2022.03 ~ Present**
-  - **SSCC (SoongSil Computing Club)** | Active Member
+## 💼 Career
+*   🎓 **2022.03 ~ Present**
+    [Soongsil Univ. – Information Security](https://ssu.ac.kr/%EA%B5%90%EC%9C%A1-%C2%B7-%EC%97%B0%EA%B5%AC/%EB%8C%80%ED%95%99%EC%86%8C%EA%B0%9C/ai%EB%8C%80%ED%95%99/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EA%B3%BC/)
+
+*   🏛️ **2022.03 ~ Present**
+    [SSCC (Soongsil Computing Club)](https://github.com/SoongSilComputingClub)
+    > 2022.03 ~ Present: Member
 
 <hr>
 
@@ -39,7 +41,6 @@
 <hr>
 
 ## 🛠 Tech Stack (Learning)
-*Technologies I am currently learning and exploring.*
 
 ### Security & Analysis
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white">
