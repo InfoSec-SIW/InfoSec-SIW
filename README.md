@@ -7,12 +7,14 @@
 
 
 ## 💼 Career
-*   🎓 **2022.03 ~ Present**
+*   🎓 **2026.03 ~ Present**
     [Soongsil Univ. – Information Security](https://ssu.ac.kr/%EA%B5%90%EC%9C%A1-%C2%B7-%EC%97%B0%EA%B5%AC/%EB%8C%80%ED%95%99%EC%86%8C%EA%B0%9C/ai%EB%8C%80%ED%95%99/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EA%B3%BC/)
 
-*   🏛️ **2022.03 ~ Present**
+*   🏛️ **2026.03 ~ Present**
     [SSCC (Soongsil Computing Club)](https://github.com/SoongSilComputingClub)
-   
+
+*   🏛️ **2026.09 ~ Present**
+    [ASC (Academic Security Club)](https://ssu-asc.com)
 
 <hr>
 
